@@ -27,7 +27,7 @@ MNIST Dataset
 
 Clone the repository:
 
-git clone https://github.com/saumykumar23/Digital_Recognition_Model.git
+git clone https://github.com/saumykumar23/digital_Recognition_Model.git
 cd Digital_Recognition_Model
 
 
